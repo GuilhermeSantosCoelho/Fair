@@ -1,0 +1,81 @@
+/* Slide */
+
+.mySlides {
+  display:none;
+}
+
+/* Fim do slide */
+
+/* Estilo de cada evento */
+.evento{
+	cursor: pointer;
+	padding-left: 500px;
+}
+
+/* Estilo de cada produto */
+.produto{
+	cursor: pointer;
+	padding-left: 500px;
+}
+
+/* Estilo de cada pessoa */
+.pessoa{
+	cursor: pointer;
+	padding-left: 500px;
+}
+
+.produto_nome{
+	float: left;
+	display: inline;
+	padding-left: 20px;
+	margin-top: -25px;
+}
+
+.pessoa_nome{
+	float: left;
+	display: inline;
+	padding-left: 20px;
+	margin-top: -25px;
+}
+
+.evento_nome{
+	float: left;
+	display: inline;
+	padding-left: 20px;
+	margin-top: -25px;
+}
+
+.simbolo{
+	float: right;
+	display: inline;
+	padding-right: 20px;
+	margin-top: -25px;
+}
+
+/* Estilo do input text */
+.txt_input{
+	width: 20%;
+	height: 50px;
+	border-radius: 50px;
+	padding-left: 20px;
+	border:2px gray solid;
+}
+
+/* Classe para dar um pequeno espaço entre dois objetos que estão na mesma linha */
+.spacing-horizontal{
+	padding-left: 20px;
+}
+
+.spacing-vertical{
+	margin-bottom: 20px;
+}
+
+/* Estilo do corpo da página */
+body{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.div_elementos{
+	border:1px #CCC solid;
+	border-radius: 10px;
+}
